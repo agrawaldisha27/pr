@@ -1,0 +1,383 @@
+:root{
+    --primarycolour:#a679ed;
+    --backgroundcolour:rgb(255, 233, 88);
+    --primaryacentcolour:#DD58D6;
+    --secondarycolour:#FFE79B;
+    --whitecolour:white;
+    --blaclcolour:black;
+}
+.main{
+    margin: 50px;
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+}
+.logoimg{
+    height: 50px;
+    width: 50px;
+}
+.navi{
+    padding: 15px 0px 15px 0px;
+}
+.search{
+    /* display: flex; */
+    /* height: 50px; */
+    /* width: 100px; */
+    margin-top: 10px;
+    
+}
+.button1{
+    height: 30px;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 20px 20px;
+}
+.sear{
+    /* padding: 3px 0px; */
+    margin:0px 0px ;
+    width: 250px;
+    height: 28px;
+    font-size: large;
+    text-align: center;
+}
+.se{
+    height: 28px;
+    width: 28px;
+    padding : 0px 0px;
+    /* margin: 4px; */
+}
+.image1{
+height: 420px;
+}
+.second{
+    display: flex;
+    justify-content:space-between;
+    padding: 15px 10px 0px 10px;
+}
+.left{
+    width: 300px;
+}
+.hello{
+    rotate: -30deg;
+    width: 50px;
+    color: var(--primarycolour);
+    position: absolute;
+    left: 55px;
+    /* height: 5px; */
+    font-size: 12px;
+    margin: 0px 0px;
+    /* margin-right: 0; */ 
+}
+.h{
+    margin: 0px 0px;
+}
+.ex{
+    /* margin-top: 30px; */
+    width: 250px;
+}
+.w{
+    width: 300px;
+    margin: 10px 0px 0px 0px;
+    padding-top: 13px;
+    font-size: 50px;
+}
+a{
+    text-decoration: none;
+    justify-content: space-between;
+}
+.hi{
+    font-size: 11px;
+    margin: 0px;
+    padding: 13px 0px 0px 10px;
+}
+.h1{
+    display: flex;
+    justify-content:space-between;
+}
+.hr{
+    margin-top: 0px;
+}
+.button2{
+    display: flex;
+    margin: 20px 0px;
+    /* font-size:10px ; */
+    /* justify-content:space-between; */
+}
+.lets{
+    display: flex;
+    height: 30px;
+    width: 100px;
+    font-size:10px ;
+    justify-content:space-between;
+    border-radius: 20px 20px;
+    border: 0px;
+    background-color: var(--primarycolour);
+}
+.msg{
+    height:24px;
+    width: 24px;
+}
+.port{
+    display: flex;
+    height: 30px;
+    width: 100px;
+    font-size:10px ;
+    justify-content:space-between;
+    border-radius: 20px 20px;
+    border:0px
+}
+.chek{
+    display: flex;
+    margin: 20px 0px;
+    justify-content:space-between;
+}
+.com{
+    font-size:10px ;
+}
+.insta{
+    height: 30px;
+    width: 30px;
+    font-size:10px ;
+    border-radius: 20px 20px;
+    border:0px;
+    padding: 0px;
+}
+.link{
+    height: 30px;
+    width: 30px;
+    font-size:10px ;
+    border-radius: 20px 20px;
+    border:0px;
+    padding: 0px;
+}
+.third {
+    display: flex;
+    background-color: var(--backgroundcolour);
+    padding: 15px 10px;
+    justify-content: space-between;
+}
+.offer42{
+    margin-top: 80px;
+}
+.circleouter{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 50% 50%;
+    /* text-align: center; */
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.circleinner{
+    height: 70px;
+    width: 70px;
+    border: 2px solid black;
+    border-radius: 50% 50%;
+    /* padding-left: 10px ; */
+    /* padding-top: 10px;position: relative; */
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+.no1{
+    display: flex;
+    /* justify-content: space-between; */
+}
+.no1-1{
+    margin-top: 0%;
+    font-size:40px;
+}
+.no1-2{
+    margin-top: 7px;
+    /* font-size:40px; */
+}
+.no2{
+    display: flex;
+    justify-content: space-between;
+}
+.no2-1{
+    font-size:12px;
+    margin-left: 20.45px;
+}
+.no2icon{
+    height: 30px;
+    width: 30px;
+    background-color: var(--primarycolour) ;
+    text-align: center;
+    border-radius: 50%;
+}
+.no2iconimg{
+    height: 20px;
+    width: 20px;
+    margin-top: 4.5px;
+}
+.forth{
+    display: flex;
+    justify-content:space-between;
+    padding: 15px 10px 0px 10px;
+}
+.skicon{
+    display: flex;
+    justify-content: space-between;
+}
+.skicon1-1{
+    width:80px;
+}
+.skicon1-1-1{
+    border-radius: 50%;
+    background-color: black;
+    height: 35px;
+    width: 35px;
+    text-align: center;
+}
+.skicon1-2{
+    color: white;
+    margin: 5px;
+}
+.right{
+    /* width: 450px; */
+}
+.time-duration{
+    display: flex;
+    /* justify-content: space-between; */
+}
+.time-duration1-1{
+    margin-top: 0%;
+    /* margin-left: 10px; */
+}
+.time-duration1{
+    margin-left: 30px;
+}
+.forthimage{
+    height: 200px;
+    /* align-items:end; */
+    text-align:end;
+}
+.forthimg{
+    height: 200px;
+    width: 200px;
+    transform: scaleX(-1);
+    /* position: absolute; */
+    /* right: 50px; */
+    /* bottom:; */
+    /* padding-top: 20px; */
+    /* bottom: 100px; */
+}
+.fifth{
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--backgroundcolour);
+}
+.lp1{
+    margin-top: 0%;
+}
+.lp1-1{
+    display: flex;
+    justify-content: space-between;
+}
+.lpimg{
+    height: 210px;
+}
+.two{
+    margin-top: 72px;
+}
+.lpcircle{
+    height:104px ;
+    width: 104px;
+    /* align-items:end; */
+    /* text-align: right; */
+    right: 20px;
+    padding-left: 165px;
+    padding-top: 35px;
+}
+.sixth , .sixtho2{
+    display: flex;
+}
+.sixth1{
+    /* display: flex; */
+    width: 550px;
+}
+.sixthex{
+    padding: 10px;
+}
+.sixthhi{
+    margin-top: 30px;
+}
+.sixth1imgage{
+    display: flex;
+}
+.sixth1img{
+    height: 250px;
+    width: 250px;
+}
+.seventh{
+    background-color: var(--backgroundcolour);
+    padding: 15px 10px;
+    justify-content: space-between;
+}
+.seventhone{
+    display: flex;
+    justify-content: space-between;
+}
+.seventhtext2one{
+    display: flex;
+    /* justify-content:space-between; */
+}
+.seventhtexticon{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: white;
+}
+.seventhtexticonimg{
+    margin: 8px 0px 0px 8px;
+}
+.seventhtexticontext{
+    padding-left: 10px;
+}
+.seventhright{
+    width: 350px;
+    height: 350px;
+    border: solid black 2px;
+    border-radius: 50%;
+    
+}
+.hand{
+    display: flex;
+    text-align: center;
+    margin:120px 0px ;
+    justify-content: space-around;
+}
+.hand1{
+    display: flex;
+}
+.hand1-1{
+    font-size: 25px;
+}
+.righticon{
+    height: 90px;
+    width: 90px;
+    background-color: var(--primarycolour);
+    border-radius: 50%;
+}
+.righticonimg{
+    height: 30px;
+    width: 30px;
+    margin-top:30px;
+}
+/* .handhr{
+    position: absolute;
+    bottom: 100px;
+    color: black;
+} */
+.seventhtwo{
+    justify-content: space-between;
+    display: flex;
+}
