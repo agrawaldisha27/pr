@@ -165,8 +165,8 @@ a{
     margin-top: 80px;
 }
 .circleouter{
-    height: 100px;
-    width: 100px;
+    height: 104px;
+    width: 104px;
     border: 2px solid black;
     border-radius: 50% 50%;
     /* text-align: center; */
@@ -381,3 +381,228 @@ a{
     justify-content: space-between;
     display: flex;
 }
+<<<<<<< Updated upstream
+=======
+
+
+
+
+.c1 {
+    transform: rotate(6.9deg);
+    /* color: violet; */
+    }
+    .c2 {
+    transform: rotate(15.8deg);
+    /* color: indigo; */
+    }
+    .c3 {
+    transform: rotate(20.7deg);
+    /* color: blue; */
+    }
+    .c4 {
+    transform: rotate(27.6deg);
+    /* color: green; */
+    }
+    .c5 {
+    transform: rotate(34.5deg);
+    /* color: yellow; */
+    }
+    .c6 {
+    transform: rotate(41.4deg);
+    /* color: orange; */
+    }
+    .c7 {
+    transform: rotate(48.3deg);
+    /* color: red; */
+    }
+    .c8 {
+    transform: rotate(55.2deg);
+    /* color: purple; */
+    }
+    .c9 {
+    transform: rotate(62.1deg);
+    /* color: goldenrod; */
+    }
+    .c10 {
+    transform: rotate(69deg);
+    /* color: teal; */
+    }
+    .c11 {
+        transform: rotate(75.9deg);
+        /* color: indigo; */
+        }
+        .c12 {
+        transform: rotate(82.8deg);
+        /* color: blue; */
+        }
+        .c13 {
+        transform: rotate(90.5deg);
+        /* color: green; */
+        }
+        .c14 {
+        transform: rotate(96.6deg);
+        /* color: yellow; */
+        }
+        .c15 {
+        transform: rotate(103.5deg);
+        /* color: orange; */
+        }
+        .c16 {
+        transform: rotate(110.4deg);
+        /* color: red; */
+        }
+        .c17 {
+        transform: rotate(117.3deg);
+        /* color: purple; */
+        }
+        .c18 {
+        transform: rotate(124.2deg);
+        /* color: goldenrod; */
+        }
+        .c19 {
+        transform: rotate(131.1deg);
+        /* color: teal; */
+        }
+        .c20 {
+            transform: rotate(138deg);
+            /* color: indigo; */
+            }
+            .c21 {
+            transform: rotate(144.9deg);
+            /* color: blue; */
+            }
+            .c22 {
+            transform: rotate(151.8deg);
+            /* color: green; */
+            }
+            .c23 {
+            transform: rotate(158.7deg);
+            /* color: rgb(107, 107, 27); */
+            }
+            .c24{
+            transform: rotate(165.6deg);
+            /* color: orange; */
+            }
+            .c25 {
+            transform: rotate(172.5deg);
+            /* color: red; */
+            }
+            .c26{
+            transform: rotate(179.4deg);
+            /* color: purple; */
+            }
+            .c27{
+            transform: rotate(189deg);
+            /* color: goldenrod; */
+            }
+            .c28{
+            transform: rotate(193.2deg);
+            /* color: teal; */
+            
+            }
+            .c29 {
+                transform: rotate(200.1deg);
+                /* color: indigo; */
+                }
+                .c30 {
+                transform: rotate(210deg);
+                /* color: blue; */
+                }
+                    .c31 {
+                    transform: rotate(213.9deg);
+                    /* color: blue; */
+                    }
+                    .c32 {
+                    transform: rotate(220.8deg);
+                    /* color: green; */
+                    }
+                    .c33 {
+                    transform: rotate(227.7deg);
+                    /* color: rgb(107, 107, 27); */
+                    }
+                    .c34{
+                    transform: rotate(234.6deg);
+                    /* color: orange; */
+                    }
+                    .c35 {
+                    transform: rotate(241.5deg);
+                    /* color: red; */
+                    }
+                    .c36{
+                    transform: rotate(248.4deg);
+                    /* color: purple; */
+                    }
+                    .c37{
+                    transform: rotate(255.3deg);
+                    /* color: goldenrod; */
+                    }
+                    .c38{
+                    transform: rotate(262.2deg);
+                    /* color: teal; */
+                    }
+                    .c39 {
+                        transform: rotate(269.1deg);
+                        /* color: teal; */
+                        }
+                        .c40 {
+                            transform: rotate(276deg);
+                            /* color: indigo; */
+                            }
+                            .c41 {
+                            transform: rotate(282.9deg);
+                            /* color: blue; */
+                            }
+                            .c42 {
+                            transform: rotate(289.8deg);
+                            /* color: green; */
+                            }
+                            .c43 {
+                            transform: rotate(296.7deg);
+                            /* color: rgb(107, 107, 27); */
+                            }
+                            .c44{
+                            transform: rotate(303.6deg);
+                            /* color: orange; */
+                            }
+                            .c45 {
+                            transform: rotate(310.5deg);
+                            /* color: red; */
+                            }
+                            .c46{
+                            transform: rotate(317.4deg);
+                            /* color: purple; */
+                            }
+                            .c47{
+                            transform: rotate(324.3deg);
+                            /* color: goldenrod; */
+                            }
+                            .c48{
+                            transform: rotate(331.2deg);
+                            /* color: teal; */
+                            
+                            }
+                            .c49 {
+                                transform: rotate(338deg);
+                                /* color: indigo; */
+                                }
+                                .c50 {
+                                transform: rotate(344.4deg);
+                                /* color: blue; */
+                                }
+                                .c51 {
+                                    transform: rotate(351.9deg);
+                                    /* color: blue; */
+                                    }
+                                    .c52 {
+                                    transform: rotate(358.8deg);
+                                    /* color: green; */
+                                    }
+    h1 span {
+        font-size: 12px ;
+        transform-origin: bottom;
+        height: 52.5px;
+        margin: 2px 52.4px;
+        position: absolute;
+        }         
+        
+>>>>>>> Stashed changes
